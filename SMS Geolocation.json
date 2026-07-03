@@ -404,8 +404,8 @@
     {
         "id": "74b2b1bf0e8c55e5",
         "type": "mqtt-broker",
-        "name": "HiveMQ Cloud",
-        "broker": "333af5572c73483aadd2b257acdb0fc7.s1.eu.hivemq.cloud",
+        "name": "broker",
+        "broker": "your broker",
         "port": "8883",
         "tls": "dc3df2bcd439ab79",
         "clientid": "nodered-watch-tracker",
@@ -483,3 +483,4 @@
         }
     }
 ]
+
