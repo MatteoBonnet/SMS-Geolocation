@@ -4,7 +4,7 @@
         "type": "tab",
         "label": "Watch Tracker",
         "disabled": false,
-        "info": "Receives watch messages via MQTT from HiveMQ Cloud, geolocates via Google API, displays on worldmap"
+        "info": "Receives watch messages via MQTT from a broker, geolocates via Google API, displays on worldmap"
     },
     {
         "id": "7209b914c5f6c9d2",
